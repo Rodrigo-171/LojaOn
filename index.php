@@ -117,7 +117,7 @@
   </section>
 
   <!--DESCUBRA O PQ LOJA ON É PERFEITO PARA VOCE-->
-  <section class="section_descubra">
+  <section class="section_descubra spothlight">
     <div class="container">
       <div class="texto_video">
         <h2>Descubra por que o LojaON é perfeito para você</h2>
@@ -129,7 +129,7 @@
 
       <div class="embed-responsive embed-responsive-16by9">
         <iframe id="video" class="embed-responsive-item" autoplay="1" frameborder="0"
-          src="media/FEVEREIROCORTE.mp4"
+          src="https://www.youtube.com/embed/_pPjPLoqAWk"
           allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       </div>
@@ -516,7 +516,7 @@
 
   <!--QUEM É GEISA?--> 
 
-  <section class="quem_geisa animate">
+  <section class="quem_geisa animate spothlight">
     <div class="container_geisa">
       <div class="texto_geisa" data-anime="left">
         <h1>Geisa Paiva</h1>
