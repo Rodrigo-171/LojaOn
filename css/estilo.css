@@ -397,6 +397,7 @@ svg {
     padding: 100px 0;
     background: #050607;
     position: relative;
+    margin-top: 10%;
 }
 
 .spothlight::before, .spothlight::after{
@@ -767,7 +768,7 @@ main.cards section.card_plano:first-child {
 .quem_geisa{
     width: 100%;
     background-color: #050607;
-    margin-top: 10%;
+    margin-top: 15%;
     position: relative;
 }
 
@@ -1072,6 +1073,18 @@ main.cards section.card_plano:first-child {
 
     .section_conheco{
         margin-top: 1em;
+    }
+
+    .section_descubra::before, .section_descubra::after, .quem_geisa::before{
+        height: 2.5em
+    }
+
+    .section_descubra::before, .quem_geisa::before{
+        top: -2.5em;
+    }
+
+    .section_descubra::after{
+        bottom: -2.5em;
     }
 }
 
