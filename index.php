@@ -29,6 +29,9 @@
   <!-- Swiper CSS -->
   <link rel="stylesheet" href="css/swiper-bundle.min.css">
 
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+
   <!--FONTAWESOME CDN LINK-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
     integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
@@ -141,52 +144,7 @@
 
 
       <!--GALERIA MOBILE-->
-      <div class="mobile_galeria">
-        <div onclick="trocar1()" class="card_video">
-          <img class="image_card" src="img/Professores/prof01.jpeg" alt="">
-          <div class="info_video">
-            <p id="title">Titulo</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
-          </div>
-        </div>
-
-        <div onclick="trocar2()" class="card_video">
-          <img class="image_card" src="img/Professores/prof02.jfif" alt="">
-          <div class="info_video">
-            <p id="title">Titulo</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
-          </div>
-        </div>
-
-        <div onclick="trocar3()" class="card_video">
-          <img class="image_card" src="img/Professores/prof03.jfif" alt="">
-          <div class="info_video">
-            <p id="title">Titulo</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
-          </div>
-        </div>
-
-        <div onclick="trocar4()" class="card_video">
-          <img class="image_card" src="img/Professores/prof03.jfif" alt="">
-          <div class="info_video">
-            <p id="title">Titulo</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
-          </div>
-        </div>
-
-        <div onclick="trocar5()" class="card_video">
-          <img class="image_card" src="img/Professores/prof03.jfif" alt="">
-          <div class="info_video">
-            <p id="title">Titulo</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
-          </div>
-        </div>
-      </div>
+        
 
 
       <!--GALERIA-->
@@ -516,9 +474,9 @@
 
   <!--QUEM É GEISA?--> 
 
-  <section class="quem_geisa animate spothlight">
+  <section class="quem_geisa">
     <div class="container_geisa">
-      <div class="texto_geisa" data-anime="left">
+      <div class="texto_geisa">
         <h1>Geisa Paiva</h1>
         <p>Empresária desde os 17 anos, Geisa Alves, criou sua loja online @artesanatoemcobre em 2013. 
           Com seu olhar estratégico percebeu que o Instagram é uma poderosa ferramenta de vendas e assim, 
@@ -526,8 +484,8 @@
           Em seus treinamentos ajudou mais de 3.000 empresárias a saíram do amadorismo e hoje são reconhecidas pelo que fazem em seus negócios e 
           gitagora ela vai ajudar você também na Loja ON!</p>
       </div>
-      <div class="foto_geisa" data-anime="right">
-        <img src="img/fotos/GEISA-GGeisa-600x600.jpg" alt="Imagem da Geisa dentro do G">
+      <div class="foto_geisa">
+        <img src="img/fotos/Geisa-600x600.png" alt="Imagem da Geisa dentro do G">
       </div>
     </div>
   </section>

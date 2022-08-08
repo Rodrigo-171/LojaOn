@@ -762,7 +762,6 @@ main.cards section.card_plano:first-child {
     background-color: #daa520!important;
 }
 
-
 /* QUEM É GEISA? */
 
 .quem_geisa{
@@ -964,12 +963,9 @@ main.cards section.card_plano:first-child {
 }
 
 @media screen and (max-width:1025px){
-    .galeria_video{
-        display: none!important;
-    }
     
     .mobile_galeria{
-        display: flex;
+        
         justify-content: center;
         flex-wrap: wrap;
     }
