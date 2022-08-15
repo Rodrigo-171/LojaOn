@@ -132,7 +132,7 @@
 
       <div class="embed-responsive embed-responsive-16by9">
         <iframe id="video" class="embed-responsive-item" autoplay="1" frameborder="0"
-          src="https://www.youtube.com/embed/_pPjPLoqAWk"
+          src="https://www.youtube.com/embed/lXvCgjsZU0s"
           allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       </div>
@@ -150,45 +150,40 @@
       <!--GALERIA-->
       <div class="galeria_video">
         <div onclick="trocar1()" class="card_video">
-          <img class="image_card" src="img/Professores/prof01.jpeg" alt="">
           <div class="info_video">
-            <p id="title">Titulo</p>
+            <p>Fevereiro corte</p>
             <p>Sub titulo</p>
             <p>2 min</p>
           </div>
         </div>
 
         <div onclick="trocar2()" class="card_video">
-          <img class="image_card" src="img/Professores/prof02.jfif" alt="">
           <div class="info_video">
-            <p>Titulo</p>
+            <p>Março corte</p>
             <p>Sub titulo</p>
             <p>2 min</p>
           </div>
         </div>
 
         <div onclick="trocar3()" class="card_video">
-          <img class="image_card" src="img/Professores/prof03.jfif" alt="">
           <div class="info_video">
-            <p>Titulo</p>
+            <p>Maio corte</p>
             <p>Sub titulo</p>
             <p>2 min</p>
           </div>
         </div>
 
         <div onclick="trocar4()" class="card_video">
-          <img class="image_card" src="img/Professores/prof04.jpg" alt="">
           <div class="info_video">
-            <p>Titulo</p>
+            <p>Junho corte</p>
             <p>Sub titulo</p>
             <p>2 min</p>
           </div>
         </div>
 
         <div onclick="trocar5()" class="card_video">
-          <img class="image_card" src="img/Professores/prof02.jfif" alt="">
           <div class="info_video">
-            <p>Titulo</p>
+            <p>Julho corte</p>
             <p>Sub titulo</p>
             <p>2 min</p>
           </div>

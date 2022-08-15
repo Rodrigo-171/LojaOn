@@ -240,11 +240,11 @@ a:hover{
 }
 
 [data-anime="left"]{
-    transform: translate3d(-90px, 0, 0);
+    transform: translate3d(-50px, 0, 0);
 }
 
 [data-anime="right"]{
-    transform: translate3d(90px, 0, 0);
+    transform: translate3d(50px, 0, 0);
 }
 
 [data-anime].animate{
@@ -438,8 +438,9 @@ svg {
     margin: 0.5rem;
     display: flex;
     cursor: pointer;
-    background-color: #021124;
+    background: linear-gradient(147deg, #ad8d41, #946f07);
     border-radius: 15px;
+    padding: 3px;
 }
 
 .card_video:hover{
@@ -452,6 +453,7 @@ svg {
     object-fit: cover;
     border-radius: 15px 0 0 15px;
 }
+
 
 .info_video{
     display: flex;
@@ -963,12 +965,6 @@ main.cards section.card_plano:first-child {
 }
 
 @media screen and (max-width:1025px){
-    
-    .mobile_galeria{
-        
-        justify-content: center;
-        flex-wrap: wrap;
-    }
 
     .hero_div{
         flex-direction: column-reverse;
@@ -1010,6 +1006,13 @@ main.cards section.card_plano:first-child {
 
     .card{
         flex-direction: column;
+    }
+
+    [data-anime="right"]{
+        transform: translate3d(0px, 0, 0);
+    }
+    [data-anime="left"]{
+        transform: translate3d(0px, 0, 0);
     }
 }
 
