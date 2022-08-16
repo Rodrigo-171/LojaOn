@@ -143,9 +143,10 @@ a:hover{
     width: 100%;
     color: white;
     font-weight: 300;
-    font-size: clamp(12px, 2rem, 25px);
+    font-size: clamp(1rem, 2.5vw, 2rem);;
     margin-top: 20px;
 }
+
 .btn{
     margin-top: 30px;
 }
@@ -160,7 +161,7 @@ a:hover{
     display: flex;
     color: white;
     text-decoration: none;
-    font-size: 1.625rem;
+    font-size: 1.15rem;
     font-weight: 600;
     text-transform: uppercase;
     align-items: center;
@@ -212,6 +213,7 @@ a:hover{
     box-shadow: 0 2px 0 0 #e5e5e5;
     margin: 0 0 2em 0;
     padding: 3em;
+    text-align: left;
 }
 .colum-1-conheco h2{
     color: white!important;
@@ -435,12 +437,13 @@ svg {
 
 .card_video{
     width: 285px;
-    margin: 0.5rem;
+    margin: 0.9rem 0rem;
     display: flex;
     cursor: pointer;
     background: linear-gradient(147deg, #ad8d41, #946f07);
     border-radius: 15px;
     padding: 3px;
+    box-shadow: 0px 3px 5px 1px #fff3;
 }
 
 .card_video:hover{
@@ -1011,8 +1014,13 @@ main.cards section.card_plano:first-child {
     [data-anime="right"]{
         transform: translate3d(0px, 0, 0);
     }
+
     [data-anime="left"]{
         transform: translate3d(0px, 0, 0);
+    }
+
+    .btn{
+        width: 100%;
     }
 }
 
