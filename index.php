@@ -149,44 +149,59 @@
 
       <!--GALERIA-->
       <div class="galeria_video">
-        <div onclick="trocar1()" class="card_video">
+
+        <div onclick="trocar1()" class="card_video2">
+          <div class="card_video">
+            <i class="fa-solid fa-chart-line"></i>
+          </div>
           <div class="info_video">
             <p>Fevereiro corte</p>
             <p>Sub titulo</p>
             <p>2 min</p>
           </div>
         </div>
-
-        <div onclick="trocar2()" class="card_video">
-          <div class="info_video">
-            <p>Março corte</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
+        
+        <div onclick="trocar2()" class="card_video2">
+          <div class="card_video">
+          <i class="fa-solid fa-chart-line"></i>
           </div>
+            <div class="info_video">
+              <p>Março corte</p>
+              <p>Sub titulo</p>
+              <p>2 min</p>
+            </div>
         </div>
 
-        <div onclick="trocar3()" class="card_video">
-          <div class="info_video">
-            <p>Maio corte</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
+        <div onclick="trocar3()" class="card_video2">
+          <div class="card_video">
+          <i class="fa-solid fa-chart-line"></i>
           </div>
+            <div class="info_video">
+              <p>Maio corte</p>
+              <p>Sub titulo</p>
+              <p>2 min</p>
+            </div>
+        </div>
+        <div  onclick="trocar4()" class="card_video2">
+          <div class="card_video">
+          <i class="fa-solid fa-chart-line"></i>
+          </div>
+            <div class="info_video">
+              <p>Junho corte</p>
+              <p>Sub titulo</p>
+              <p>2 min</p>
+            </div>
         </div>
 
-        <div onclick="trocar4()" class="card_video">
-          <div class="info_video">
-            <p>Junho corte</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
+        <div  onclick="trocar5()"  class="card_video2">
+          <div class="card_video">
+          <i class="fa-solid fa-chart-line"></i>
           </div>
-        </div>
-
-        <div onclick="trocar5()" class="card_video">
-          <div class="info_video">
-            <p>Julho corte</p>
-            <p>Sub titulo</p>
-            <p>2 min</p>
-          </div>
+            <div class="info_video">
+              <p>Julho corte</p>
+              <p>Sub titulo</p>
+              <p>2 min</p>
+            </div>
         </div>
       </div>
   </section>
