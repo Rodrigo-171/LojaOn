@@ -1113,6 +1113,10 @@ main.cards section.card_plano:first-child {
     .section_descubra::after{
         bottom: -2.5em;
     }
+    .section_como_func p{
+    text-align: center;
+    line-height: 40px;
+}
 }
 
 
