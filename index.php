@@ -82,7 +82,7 @@
         <p>Eu sei que você tem dificuldade em saber qual é o próximo passo, saber
           planejar a próxima ação de venda, saber qual produto focar na próxima semana e
           mesmo quando finalmente consegue se planejar não consegue executar, e por
-          isso, no final do dia sempre se sente improdutiva.
+          isso, no final do dia sempre se sente improdutiva.</br>
           Sei disso, porque também tenho uma loja online desde 2013 e olhando pra trás
           vejo que só foi possível sair do zero e faturar mais de 2 milhões por ano quando
           comecei a criar planos de ações semanais. É esse planejamento que compartilho
