@@ -103,13 +103,13 @@ a:hover{
 
 /*--------------background image--------------*/
 
-.hero{
+.hero {
     background-attachment: scroll, fixed;
     background-color: #666;
     background-image: url(../img/overlay.png), url(../img/fotos/GEISA-1237x1274.png);
-    background-position: top left, center center;
+    background-position: right top, right bottom;
     background-repeat: repeat, no-repeat;
-    background-size: auto, cover;
+    background-size: auto, 50%;
     color: #fff;
     padding: 12em 0 20em 0;
     text-align: center;
@@ -185,7 +185,15 @@ a:hover{
     height: auto;
     width: 480px;
 }
-
+.hero_div .title {
+    width: 60%;
+    text-align: center;
+}
+.hero_div .btn {
+    width: max-content;
+    display: block;
+    margin: 12% auto 0;
+}
 /*-------container-------*/
 .container {
     margin-right: auto;
