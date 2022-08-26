@@ -64,13 +64,6 @@
       <div class="title">
         <h1 class="hero__title">Planeje e execute as ações do mês da sua loja online e nunca mais fique
           sem vender!</h1>
-        <p class="hero__text">Eu sei que você tem dificuldade em saber qual é o próximo passo, saber
-          planejar a próxima ação de venda, saber qual produto focar na próxima semana e
-          mesmo quando finalmente consegue se planejar não consegue executar, e por
-          isso, no final do dia sempre se sente improdutiva.
-          Sei disso, porque também tenho uma loja online desde 2013 e olhando pra trás
-          vejo que só foi possível sair do zero e faturar mais de 2 milhões por ano quando
-          comecei a criar planos de ações semanais. É esse planejamento que compartilho</p>
         <div class="btn">
           <a href="#title_plano" class="hero__btn">Comece agora</a>
         </div>
@@ -487,7 +480,7 @@
   <section class="quem_geisa">
     <div class="container_geisa">
       <div class="texto_geisa">
-        <h1>Geisa Paiva</h1>
+        <h1>Geisa Alves</h1>
         <p>Empresária desde os 17 anos, Geisa Alves, criou sua loja online @artesanatoemcobre em 2013. 
           Com seu olhar estratégico percebeu que o Instagram é uma poderosa ferramenta de vendas e assim, 
           desenvolveu dezenas de estratégias de vendas pela Internet, visando multiplicar suas vendas em até dez vezes por meio da rede social.
