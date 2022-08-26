@@ -151,8 +151,8 @@
             <i class="fa-solid fa-chart-line"></i>
           </div>
           <div class="info_video">
-            <p>Fevereiro corte</p>
-            <p>Sub titulo</p>
+            <p>Fevereiro LojaON</p>
+            <p>Corte do encontro ao vivo</p>
             <p>2 min</p>
           </div>
         </div>
@@ -162,8 +162,8 @@
           <i class="fa-solid fa-chart-line"></i>
           </div>
             <div class="info_video">
-              <p>Março corte</p>
-              <p>Sub titulo</p>
+              <p>Março LojaON</p>
+              <p>Corte do encontro ao vivo</p>
               <p>2 min</p>
             </div>
         </div>
@@ -173,8 +173,8 @@
           <i class="fa-solid fa-chart-line"></i>
           </div>
             <div class="info_video">
-              <p>Maio corte</p>
-              <p>Sub titulo</p>
+              <p>Maio LojaON</p>
+              <p>Corte do encontro ao vivo</p>
               <p>2 min</p>
             </div>
         </div>
@@ -183,8 +183,8 @@
           <i class="fa-solid fa-chart-line"></i>
           </div>
             <div class="info_video">
-              <p>Junho corte</p>
-              <p>Sub titulo</p>
+              <p>Junho LojaON</p>
+              <p>Corte do encontro ao vivo</p>
               <p>2 min</p>
             </div>
         </div>
@@ -194,8 +194,8 @@
           <i class="fa-solid fa-chart-line"></i>
           </div>
             <div class="info_video">
-              <p>Julho corte</p>
-              <p>Sub titulo</p>
+              <p>Julho LojaON</p>
+              <p>Corte do encontro ao vivo</p>
               <p>2 min</p>
             </div>
         </div>
