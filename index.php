@@ -102,14 +102,17 @@
     </div>
 
     <p>O LojaON é um planejamento estratégico para você saber o que executar em
-      cada semana. O encontro de planejamento acontece ao vivo e online uma vez
+      cada semana.</p>
+    <p>O encontro de planejamento acontece ao vivo e online uma vez
       por mês, você pode participar ao vivo ou assistir a gravação. Esse
       planejamento é dividido por semanas, ou seja, cada semana possui
-      ações
-      diferentes para o seu negócio. Você também recebe um checklist semanal para
-      garantir a execução de todas as ações. Além disso, semanalmente você
+      ações diferentes para o seu negócio.</p>
+    <p>Você também recebe um checklist semanal para
+      garantir a execução de todas as ações. </p>
+    <p>Além disso, semanalmente você
       recebe um e-mail de lembrete para não esquecer de planejar a próxima
-      semana. O LojaOn é tudo o que você precisa para nunca mais ser improdutiva na sua loja online.</p>
+      semana.</p>
+      <p>O LojaOn é tudo o que você precisa para nunca mais ser improdutiva na sua loja online.</p>
   </section>
 
   <!--DESCUBRA O PQ LOJA ON É PERFEITO PARA VOCE-->
@@ -204,20 +207,20 @@
     <h1>Planos</h1>
     <main class="cards">
       <section class="card_plano mensal" data-anime="left">
-        <h2>R$39,90</h2>
         <h3>Plano Mensal</h3>
         <span>Aqui a cobrança é feita mensalmente. Caso não queira mais assinar o
           LojaON, você pode cancelar a qualquer momento e não receberá novas cobranças.
           Além disso, você também pode solicitar o reembolso em até 7 dias após o
           pagamento mensal</span>
+          <h2>R$49,90</h2>
         <button>Assinar</button>
       </section>
 
       <section class="card_plano anual" data-anime="right"> 
-        <h2>R$478,80</h2>
         <h3>Plano Anual</h3>
         <span>Aqui a cobrança é feita anualmente no valor total de R$
           478,80 reais à vista ou em 12 vezes sem juros e você tem 7 dias para solicitar o reembolso.</span>
+        <h2>R$39,90<span>*Cobrado anualmente</h2>
         <button>Assinar</button>
       </section>
     </main>
