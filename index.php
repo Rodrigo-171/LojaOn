@@ -102,16 +102,16 @@
     </div>
 
     <p>O LojaON é um planejamento estratégico para você saber o que executar em
-      cada semana.</br>
+      cada semana.
     O encontro de planejamento acontece ao vivo e online uma vez
-      por mês, você pode participar ao vivo ou assistir a gravação. Esse
+      por mês, você pode participar ao vivo ou assistir a gravação.</br> Esse
       planejamento é dividido por semanas, ou seja, cada semana possui
-      ações diferentes para o seu negócio.</br>
+      ações diferentes para o seu negócio.
     Você também recebe um checklist semanal para
-      garantir a execução de todas as ações. </br>
+      garantir a execução de todas as ações.<br>
     Além disso, semanalmente você
       recebe um e-mail de lembrete para não esquecer de planejar a próxima
-      semana.<br>
+      semana.
       O LojaOn é tudo o que você precisa para nunca mais ser improdutiva na sua loja online.</p>
   </section>
 

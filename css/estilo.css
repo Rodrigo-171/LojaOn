@@ -590,7 +590,7 @@ svg {
 }
 
 .card_plano h3 {
-    font-size: 100%;
+    font-size: 20px;
     margin: 16px 0;
 }
 
@@ -642,6 +642,12 @@ main.cards section.card_plano:first-child {
     font-size: 10px;
     display: block;
     min-height: auto;
+}
+.card_plano h2 b {
+    font-size: 14px;
+}
+.card_plano h2 {
+    font-size: 30px;
 }
 
 
