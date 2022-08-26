@@ -104,12 +104,12 @@ a:hover{
 /*--------------background image--------------*/
 
 .hero {
-    background-attachment: scroll, fixed;
-    background-color: #666;
+background-color: #666;
     background-image: url(../img/overlay.png), url(../img/fotos/GEISA-1237x1274.png);
     background-position: right top, right bottom;
     background-repeat: repeat, no-repeat;
-    background-size: auto, 50%;
+    background-size: auto, 45%;
+    background-position-y: 20%;
     color: #fff;
     padding: 12em 0 20em 0;
     text-align: center;
