@@ -195,7 +195,7 @@ a:hover{
     max-width: 90%;
 }
 
-/*----TE CONHEÇO---------*/
+/*----TE CONHEÃ‡O---------*/
 
 
 .section_conheco{
@@ -295,6 +295,8 @@ section iframe{
 .section_como_func p{
     margin-top: 30px;
     font-size: 1rem;
+    text-align: center;
+    line-height: 40px;
 }
 
 .div_video{
@@ -781,7 +783,7 @@ main.cards section.card_plano:first-child {
     background-color: #daa520!important;
 }
 
-/* QUEM É GEISA? */
+/* QUEM Ã‰ GEISA? */
 
 .quem_geisa::before{
     background-image: url(../img/svg/triangulo.gif);
