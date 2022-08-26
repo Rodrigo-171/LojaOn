@@ -220,7 +220,7 @@
         <h3>Plano Anual</h3>
         <span>Aqui a cobrança é feita anualmente no valor total de R$
           478,80 reais à vista ou em 12 vezes sem juros e você tem 7 dias para solicitar o reembolso.</span>
-        <h2>R$39,90<span>*Cobrado anualmente</h2>
+        <h2>R$39,90<b>/Mês*</b><span>*Cobrado anualmente</h2>
         <button>Assinar</button>
       </section>
     </main>
