@@ -297,16 +297,14 @@
             <span class="overlay"></span>
 
             <div class="card-image">
-              <img src="img/alunos/Thaís.jpeg" alt="" class="card-img">
+              <img src="img/alunos/Naiara.jpeg" alt="" class="card-img">
             </div>
           </div>
 
           <div class="card-content">
-            <h2 class="name">Thaís Veloso</h2>
-            <p class="description">O Loja ON superou todas as minhas expectativas! 
-              Tenho dificuldade em planejar o mês e ele tem me ajudado muito, 
-              é bem detalhado e cheio de ideias. No Dia da Mulher, seguimos tudo o que a Geisa orientou 
-              e o resultado foi tão maravilhoso.</p>
+            <h2 class="name">Naiara Rodrigues</h2>
+            <p class="description">Eu estou amando o Loja ON! 
+            Entrei há poucos dias e apliquei o story shop, fiz R$1050,00 em vendas somente com essa estratégia. Ansiosa para o próximo planejamento!</p>
 
           </div>
         </div>
