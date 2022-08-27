@@ -1134,8 +1134,42 @@ main.cards section.card_plano:first-child {
     }
     .section_como_func p{
     text-align: center;
-    line-height: 40px;
+    line-height: 30px;
 }
+.colum-1-conheco p {
+    text-align: center;
+}
+.section_conheco h2 {
+    text-align: center;
+}
+.hero__title {
+    width: 100%;
+    font-size: 24px;
+    }
+    .hero_div .title {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding-top: 90%;
+}
+.hero_div .btn {
+    width: max-content;
+    display: block;
+    margin: 5% auto 0;
+}
+.hero {
+    background-color: #666;
+    background-image: url(../img/overlay.png), url(../img/fotos/GEISA-1237x1274.png);
+    background-position: center top;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, 70%;
+    background-position-y: 20%;
+    }
+    .hero__btn {
+    padding: 12px 40px;
+    font-size: 12px;
+}
+
 }
 
 
